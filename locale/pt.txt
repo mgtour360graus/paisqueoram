@@ -1,0 +1,25 @@
+#: locale=pt
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_B6792423_A5FC_0A80_41C2_660C812C2117.toolTip = Reze uma Ave Maria conosco
+
+## Media
+
+### Audio
+audiores_B1DA1F42_A5E4_1683_41CB_EC93305A5F05.url = media/audio_B1932BC8_A5FC_7D8F_41E0_90E447F8D6F9_pt.mp3
+audiores_B1D2CC08_A5E4_1A8F_41D4_E034D08D5208.url = media/audio_B66363E9_A5FC_0D81_41D4_CE0BCC9FFFAD_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_A969467D_A5E4_F680_41D9_18CED820ABF0.label = IMG_20260915_075736_00_054
+
+## Tour
+
+### Description
+tour.description = Colégio Mariista Maringá 
+
+### Title
+tour.name = Pais que Oram pelos Filhos 
