@@ -19,7 +19,7 @@ panorama_A969467D_A5E4_F680_41D9_18CED820ABF0.label = IMG_20260915_075736_00_054
 ## Tour
 
 ### Description
-tour.description = Colégio Mariista Maringá 
+tour.description = Colégio Marista Maringá 
 
 ### Title
 tour.name = Pais que Oram pelos Filhos 
